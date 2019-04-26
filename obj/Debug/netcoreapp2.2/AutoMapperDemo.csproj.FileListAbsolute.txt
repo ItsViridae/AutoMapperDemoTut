@@ -1,0 +1,6 @@
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.deps.json
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\bin\Debug\netcoreapp2.2\AutoMapperDemo.dll
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.csprojAssemblyReference.cache
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.AssemblyInfoInputs.cache
+C:\Users\Viridae\source\repos\AutoMapperDemo\AutoMapperDemo\obj\Debug\netcoreapp2.2\AutoMapperDemo.AssemblyInfo.cs
